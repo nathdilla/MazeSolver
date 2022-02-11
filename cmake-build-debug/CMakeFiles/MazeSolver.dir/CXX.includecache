@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nathandilla/CLionProjects/CST201/MazeSolver/MazeCell.h
+iostream
+-
+
+/Users/nathandilla/CLionProjects/CST201/MazeSolver/MyQ.h
+
+/Users/nathandilla/CLionProjects/CST201/MazeSolver/Source.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+myStack.h
+/Users/nathandilla/CLionProjects/CST201/MazeSolver/myStack.h
+MyQ.h
+/Users/nathandilla/CLionProjects/CST201/MazeSolver/MyQ.h
+MazeCell.h
+/Users/nathandilla/CLionProjects/CST201/MazeSolver/MazeCell.h
+
+/Users/nathandilla/CLionProjects/CST201/MazeSolver/myStack.h
+
